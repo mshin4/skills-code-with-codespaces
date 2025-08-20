@@ -77,7 +77,7 @@ jobs:
         uses: skills/action-keyphrase-checker@v1
         with:
           text-file: src/hello.py
-          keyphrase: "Hello World"
+          keyphrase: "Hello Mike"
           case-sensitive: false
           minimum-occurrences: 1
 
